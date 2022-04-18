@@ -1,0 +1,22 @@
+nav {
+  /* This tag keeps the navigation bar at the top of the viewport */
+  position: fixed;
+  width: 100vw;
+}
+#welcome-section {
+  height: 100vh;
+  }
+@media screen{
+body {
+    background-color: lightpink;
+  }
+
+img {
+  /* this img makes it respond to the screen size */
+  max-width: 100%;
+  height: auto;
+}
+#projects {
+    background-color: lightblue;
+  }
+}
